@@ -11,8 +11,8 @@ The main goal is to create a friendly community around this engine to shape it, 
 ## Project Setup
 - Orbit has only been tested on Windows platform sofar, allthough the focus is still to make it multiplatform in the future.
 - you can clone the repository to your local machine via `git clone https://github.com/Madsycode/orbit-dev.git`
-- In the root directory of your cloned repository you will find a `vs2019.bat` file. Execute it to generate a vs-2019 solution.
-- you can open the `.bat` file in your custom text editor and change the visual studio version. But vs2017 & 2019 are motsly recommended.
+- to be able to create a visual studio solution from this repository, you need to download [premake5.exe](https://premake.github.io/) and copy it into the root directory of the project so that the script can use to generate a solution.
+- Now execute the `vs2019.bat` file. to generate a vs-2019 solution.
 - the last important step is to open the **Properties of the CORE-Project** in visual studio and make sure you set the **Precompiled Headers** setting for this file: `CORE/src/Vendor/ImGui/ImGuizmo.cpp` to not **No Using Precompiled Headers**. This should normally be done by premake but it hasn't work for me sofar. so if you can, please fix it.
 
 ## Supported features
