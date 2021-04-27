@@ -1,6 +1,7 @@
 # Directories
 .vs/
 bin/
+premake/
 
 # Files
 *.log
