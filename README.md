@@ -1,8 +1,7 @@
 # Orbit Engine
-
+# [![Hex.pm](https://img.shields.io/hexpm/l/plug?color=orange&logo=madsycode&logoColor=red&style=plastic)](https://github.com/Madsycode/orbit-dev/blob/2a7f85551977d0d1274db3fe6cd2da9020d23541/LICENSE)
 **Orbit** is a multiplatform-focus graphical engine build on top of OpenGl, ImGui and more...
 The development of the engine is documented via my youtube channel: [Madsycode](https://www.youtube.com/c/madsycode)
-# [![Hex.pm](https://img.shields.io/hexpm/l/plug?color=orange&logo=madsycode&logoColor=red&style=plastic)](https://github.com/Madsycode/orbit-dev/blob/2a7f85551977d0d1274db3fe6cd2da9020d23541/LICENSE)
 
 ![Orbit engine preview](https://github.com/Madsycode/orbit-dev/blob/master/preview.png)
 
