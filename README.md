@@ -39,6 +39,9 @@ The main goal is to create a friendly community around this engine to shape it, 
 8. Logo for engine
 9. ...
 
+## Code of Conduct
+Please read [Conduct.md](https://github.com/Madsycode/orbit-dev/blob/master/Conduct.md) for details on our code of conduct.
+
 ## Support
 Any support, to this project will be highly considered. So you are free to contribute for the future of this engine.
 
