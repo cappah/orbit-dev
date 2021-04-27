@@ -6,7 +6,7 @@ The development of the engine is documented via my youtube channel: [Madsycode](
 ![Orbit engine preview](https://github.com/Madsycode/orbit-dev/blob/master/preview.png)
 
 ## Project's Goal
-The main goal is to create a friendly community around this engine to shape it, maintain it and make a difference with it.
+The main goal is to create a friendly community around this engine to shape it, maintain it and potentially make a difference.
 
 ## Project Setup
 - Orbit has only been tested on Windows platform sofar, allthough the focus is still to make it multiplatform in the future.
