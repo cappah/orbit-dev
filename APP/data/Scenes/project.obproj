@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?>
+<Entity>
+    <Component type="Common" name="Skybox" active="1"/>
+    <Component type="Transform" px="0" py="0" pz="0" rx="0" ry="0" rz="0" sx="1" sy="1" sz="1"/>
+</Entity>
