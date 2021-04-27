@@ -12,7 +12,7 @@ The main goal is to create a friendly community around this engine to shape it, 
 - Orbit has only been tested on Windows platform sofar, allthough the focus is still to make it multiplatform in the future.
 - you can clone the repository to your local machine via `git clone https://github.com/Madsycode/orbit-dev.git`
 - In the root directory of your cloned repository you will find a `vs2019.bat` file. Execute it to generate a vs-2019 solution.
-- you can open the file in an text editor and change the visual studio version to 2017 or any other version. But vs2017 & 2019 are motsly recommended.
+- you can open the `.bat` file in your custom text editor and change the visual studio version. But vs2017 & 2019 are motsly recommended.
 - the last important step is to open the **Properties of the CORE-Project** in visual studio and make sure you set the **Precompiled Headers** setting for this file: `CORE/src/Vendor/ImGui/ImGuizmo.cpp` to not **No Using Precompiled Headers**. This should normally be done by premake but it hasn't work for me sofar. so if you can, please fix it.
 
 ## Supported features
