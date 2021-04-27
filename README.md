@@ -3,7 +3,7 @@
 **Orbit** is a multiplatform-focus graphical engine build on top of OpenGl, ImGui and more...
 The development of the engine is documented via my youtube channel: [Madsycode](https://www.youtube.com/c/madsycode)
 
-![Image of Yaktocat](link img)
+![Orbit engine preview](https://github.com/Madsycode/orbit-dev/blob/master/preview.png)
 
 ## Project's Goal
 The main goal is to create a friendly community around this engine to shape it, maintain it and make a difference with it.
