@@ -9,7 +9,7 @@ The development of the engine is documented via my youtube channel: [Madsycode](
 The main goal is to create community around this project to shape it, maintain it and make a difference with it.
 
 ## Supported features
-1. [x] Physical Base Rendering (PBR)
+1. Physical Base Rendering (PBR)
 2. ImGui User Interface (Editor)
 3. Entity Munipulation via Transform Gizmo
 4. Entity Component System (ECS)
