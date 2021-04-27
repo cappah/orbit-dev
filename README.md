@@ -5,8 +5,15 @@ The development of the engine is documented via my youtube channel: [Madsycode](
 
 ![Image of Yaktocat](link img)
 
-## Goal
-The main goal is to create community around this project to shape it, maintain it and make a difference with it.
+## Project's Goal
+The main goal is to create a friendly community around this engine to shape it, maintain it and make a difference with it.
+
+## Project Setup
+- Orbit has only been tested on Windows platform sofar, allthough the focus is still to make it multiplatform in the future.
+- you can clone the repository to your local machine via `git clone https://github.com/Madsycode/orbit-dev.git`
+- In the root directory of your cloned repository you will find a `vs2019.bat` file. Execute it to generate a vs-2019 solution.
+- you can open the file in an text editor and change the visual studio version to 2017 or any other version. But vs2017 & 2019 are motsly recommended.
+- the last important step is to open the **Properties of the CORE-Project** in visual studio and make sure you set the **Precompiled Headers** setting for this file: `CORE/src/Vendor/ImGui/ImGuizmo.cpp` to not **No Using Precompiled Headers**. This should normally be done by premake but it hasn't work for me sofar. so if you can, please fix it.
 
 ## Supported features
 1. Physical Base Rendering (PBR)
@@ -17,7 +24,7 @@ The main goal is to create community around this project to shape it, maintain i
 6. Basic XML-Serialization (tinyxml)
 7. Event Driven Architechture
 8. 3D Model loading with assimp
-9. Texture loading via std_image
+9. Texture loading via stb_image
 10. Point, Spot & Directional lighting
 11. ...
 
